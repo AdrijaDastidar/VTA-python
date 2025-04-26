@@ -1,0 +1,14 @@
+flask
+python-dotenv
+langchain
+langchain_community
+langchain_groq 
+langchain_experimental
+waitress
+Flask_cors
+# whisper - pip install git+https://github.com/openai/whisper.git
+noisereduce
+soundfile
+pydub 
+scipy 
+pdfplumber
