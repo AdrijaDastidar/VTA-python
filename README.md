@@ -42,7 +42,6 @@ This is the **Flask-based backend** for the **Virtual Teaching Assistant** platf
 
 ```bash
 # Clone and enter project
-git clone https://github.com/your-org/virtual-teaching-assistant.git
 cd server-python
 
 # Create virtual environment
